@@ -8,5 +8,12 @@ DataCrawling.py 使用requests库爬取股票数据，将股票数据按股票�
 
 DataVisualization.py 通过pandas读取csv格式的数据，并使用pyecharts配置并制作视图
 
+视图如下：
+
+
+![image](picture/result.png)
+
+
+
 
 
