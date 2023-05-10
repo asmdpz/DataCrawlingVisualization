@@ -63,7 +63,7 @@ def read_data():
 
 def main():
     # 将csv文件中的数据可视化
-    print("++++++++++++正在可视化白酒的k线数据++++++++++++")
+    print("++++++++++++正在可视化教育的k线数据++++++++++++")
     x,y,z = read_data()
     draw_line(x,y,z)
 
